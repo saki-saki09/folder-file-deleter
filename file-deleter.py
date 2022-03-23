@@ -7,8 +7,8 @@ else:
   print("\n'%s' file doesn't exist..." % file)
 
 """
-This is an trial file for Python Practice... By using this... when you run this file to your terminal... 
+This is a trial file for Python Practice... By using this... when you run this file to your terminal... 
 You have to write your file name and press "Enter"... By pressing "Enter" the file will be deleted...
 
-Θ But here's a CONDITION that the file that you want to delete by using this 'file-deleter.py', must be exist at the same folder Θ
+Θ But here's a CONDITION that the file that you want to delete by using this 'file-deleter.py', must exist at the same folder Θ
 """
